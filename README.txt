@@ -37,4 +37,4 @@ Stanley Kennedy,63,70,81,21,40
 Kyoko Nielson,92,48,84,8,1
 Linda Wade,25,93,85,0,70
 Joan Fowler,92,66,71,61,13
-William Thomas,59,56,76,56,70
+William Thomas,59,56,76,56,75
